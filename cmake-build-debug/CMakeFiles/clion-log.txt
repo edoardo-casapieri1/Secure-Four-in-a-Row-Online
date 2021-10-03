@@ -1,0 +1,4 @@
+/home/tom/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.7223.86/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tom/CLionProjects/FOC_cybersec_fin/FOC_cybersec/FOC
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tom/CLionProjects/FOC_cybersec_fin/FOC_cybersec/FOC/cmake-build-debug

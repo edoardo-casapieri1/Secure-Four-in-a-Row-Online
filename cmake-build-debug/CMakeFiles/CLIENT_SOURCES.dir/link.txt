@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCLIENT_SOURCES.a  CMakeFiles/CLIENT_SOURCES.dir/Client/client.cpp.o CMakeFiles/CLIENT_SOURCES.dir/Game/game.cpp.o
+/usr/bin/ranlib libCLIENT_SOURCES.a

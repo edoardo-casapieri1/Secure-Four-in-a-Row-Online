@@ -1,0 +1,6 @@
+/home/tom/CLionProjects/FOC_cybersec_fin/FOC_cybersec/FOC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tom/CLionProjects/FOC_cybersec_fin/FOC_cybersec/FOC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tom/CLionProjects/FOC_cybersec_fin/FOC_cybersec/FOC/cmake-build-debug/CMakeFiles/CLIENT_SOURCES.dir
+/home/tom/CLionProjects/FOC_cybersec_fin/FOC_cybersec/FOC/cmake-build-debug/CMakeFiles/SERVER_SOURCES.dir
+/home/tom/CLionProjects/FOC_cybersec_fin/FOC_cybersec/FOC/cmake-build-debug/CMakeFiles/client.dir
+/home/tom/CLionProjects/FOC_cybersec_fin/FOC_cybersec/FOC/cmake-build-debug/CMakeFiles/server.dir

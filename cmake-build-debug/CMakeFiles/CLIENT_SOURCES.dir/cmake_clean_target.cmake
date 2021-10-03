@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libCLIENT_SOURCES.a"
+)

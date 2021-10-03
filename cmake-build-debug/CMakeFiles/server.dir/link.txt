@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/server.dir/Server/server.cpp.o  -o server  libSERVER_SOURCES.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
